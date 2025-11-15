@@ -1,0 +1,371 @@
+Found 898 candidate pairs (target, source). Showing up to 300.
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbr/other presets/shaders/xbr-hybrid/2xbr-hybrid-v5-gamma.slang   <=  /home/asdf/shader_temp/common-shaders/xbr/shaders/xbr-hybrid/2xbr-hybrid-v5-gamma.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/test/lab/xbr/2xbr-lv1-c-pass0.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbrz/shaders/2xbrz.slang   <=  /home/asdf/shader_temp/common-shaders/xbrz/shaders/2xbrz.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xbrz/2xbrz-linear.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xsal/2xsal.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/xsal/shaders/2xsal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsal/shaders/2xsal.slang   <=  /home/asdf/shader_temp/common-shaders/xsal/2xsal.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsal/shaders/2xsal.slang   <=  /home/asdf/shader_temp/common-shaders/xsal/shaders/2xsal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsal/shaders/2xsal-level2.slang   <=  /home/asdf/shader_temp/common-shaders/xsal/shaders/2xsal-level2.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xsal/2xsal-level2-crt.cgp  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsal/shaders/2xsal-level2-hq.slang   <=  /home/asdf/shader_temp/common-shaders/xsal/shaders/2xsal-level2-hq.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsal/shaders/2xsal-level2-pass2.slang   <=  /home/asdf/shader_temp/common-shaders/xsal/shaders/2xsal-level2-pass2.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsal/shaders/2xsal-level2-xbr.slang   <=  /home/asdf/shader_temp/common-shaders/xsal/shaders/2xsal-level2-xbr.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/scalehq/2xScaleHQ.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/scalehq/shaders/2xScaleHQ.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/scalehq/2xScaleHQ.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/scalehq/shaders/2xScaleHQ.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/gpu/3dfx_4x1.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/gpu/shaders/old/3dfx_4x1.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/gpu/3dfx_4x1.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/gpu/shaders/old/3dfx_4x1.cgp  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/3dfx_pass_0.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/3dfx_pass_0.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/3dfx_pass_0.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/old/3dfx_pass_0.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/old/3dfx_pass_0.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/3dfx_pass_0.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/old/3dfx_pass_0.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/old/3dfx_pass_0.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/3dfx_pass_1.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/3dfx_pass_1.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/3dfx_pass_1.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/old/3dfx_pass_1.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/old/3dfx_pass_1.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/3dfx_pass_1.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/old/3dfx_pass_1.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/old/3dfx_pass_1.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/3dfx_pass_2.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/3dfx_pass_2.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/3dfx_pass_2.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/old/3dfx_pass_2.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/old/3dfx_pass_2.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/3dfx_pass_2.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/gpu/shaders/3dfx/old/3dfx_pass_2.slang   <=  /home/asdf/shader_temp/common-shaders/gpu/shaders/old/3dfx_pass_2.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/4xbr-hybrid-crt.cgp  (no top comment block)
+
+================================================================================
+DIFF for target: /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbr/other presets/4xbr-hybrid-crt.slangp   <=  source: /home/asdf/shader_temp/common-shaders/crt/shaders/4xbr-hybrid-crt.cg
+================================================================================
+--- /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbr/other presets/4xbr-hybrid-crt.slangp
++++ /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbr/other presets/4xbr-hybrid-crt.slangp
+@@ -1,3 +1,7 @@
++/*
+
++ *    Copyright (C) 2011/2012 Hyllian/Jararaca - sergiogdb@gmail.com
+
++ */
+
++
+
+ shaders = 1
+
+ 
+
+ shader0 = shaders/4xbr-hybrid-crt.slang
+
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbr/other presets/shaders/4xbr-hybrid-crt.slang   <=  /home/asdf/shader_temp/common-shaders/crt/4xbr-hybrid-crt.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbr/other presets/shaders/4xbr-hybrid-crt.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/4xbr-hybrid-crt.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbrz/shaders/4xbrz.slang   <=  /home/asdf/shader_temp/common-shaders/xbrz/shaders/4xbrz.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xbrz/4xbrz-linear.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xsal/4xsal-level2.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xsal/4xsal-level2-crt.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xsal/4xsal-level2-hq.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/scalehq/4xScaleHQ.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/scalehq/shaders/4xScaleHQ.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/scalehq/shaders/4xScaleHQ.slang   <=  /home/asdf/shader_temp/common-shaders/scalehq/4xScaleHQ.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/scalehq/shaders/4xScaleHQ.slang   <=  /home/asdf/shader_temp/common-shaders/scalehq/shaders/4xScaleHQ.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xsoft/4xsoft.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/xsoft/shaders/4xsoft.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsoft/shaders/4xsoft.slang   <=  /home/asdf/shader_temp/common-shaders/xsoft/4xsoft.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsoft/shaders/4xsoft.slang   <=  /home/asdf/shader_temp/common-shaders/xsoft/shaders/4xsoft.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xsoft/4xsoftSdB.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/xsoft/shaders/4xsoftSdB.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsoft/shaders/4xsoftSdB.slang   <=  /home/asdf/shader_temp/common-shaders/xsoft/4xsoftSdB.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xsoft/shaders/4xsoftSdB.slang   <=  /home/asdf/shader_temp/common-shaders/xsoft/shaders/4xsoftSdB.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbrz/shaders/5xbrz.slang   <=  /home/asdf/shader_temp/common-shaders/xbrz/shaders/5xbrz.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xbrz/5xbrz-linear.cgp  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/edge-smoothing/xbrz/shaders/6xbrz.slang   <=  /home/asdf/shader_temp/common-shaders/xbrz/shaders/6xbrz.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/xbrz/6xbrz-linear.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/interpolation/aann.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/interpolation/shaders/aann.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/pixel-art-scaling/shaders/aann.slang   <=  /home/asdf/shader_temp/common-shaders/interpolation/aann.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/pixel-art-scaling/shaders/aann.slang   <=  /home/asdf/shader_temp/common-shaders/interpolation/shaders/aann.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/sharpen/adaptive-sharpen.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/sharpen/shaders/adaptive-sharpen.cg  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/sharpen/shaders/adaptive-sharpen.slang   <=  /home/asdf/shader_temp/common-shaders/sharpen/adaptive-sharpen.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/sharpen/shaders/adaptive-sharpen.slang   <=  /home/asdf/shader_temp/common-shaders/sharpen/shaders/adaptive-sharpen.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/sharpen/adaptive-sharpen-multipass.cgp  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/sharpen/shaders/adaptive-sharpen-pass1.slang   <=  /home/asdf/shader_temp/common-shaders/sharpen/shaders/adaptive-sharpen-pass1.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/sharpen/shaders/adaptive-sharpen-pass2.slang   <=  /home/asdf/shader_temp/common-shaders/sharpen/shaders/adaptive-sharpen-pass2.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/anti-aliasing/advanced-aa.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/anti-aliasing/shaders/advanced-aa.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/anti-aliasing/shaders/advanced-aa.slang   <=  /home/asdf/shader_temp/common-shaders/anti-aliasing/advanced-aa.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/anti-aliasing/shaders/advanced-aa.slang   <=  /home/asdf/shader_temp/common-shaders/anti-aliasing/shaders/advanced-aa.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/misc/anaglyph-to-side-by-side.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/misc/anaglyph-to-side-by-side.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/ntsc/artifact-colors.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/ntsc/shaders/artifact-colors/artifact-colors0.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/ntsc/shaders/artifact-colors/artifact-colors1.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/ntsc/shaders/artifact-colors/artifact-colors2.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/misc/bead.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/misc/bead.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/handheld/bevel.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/handheld/shaders/bevel.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/handheld/shaders/bevel.slang   <=  /home/asdf/shader_temp/common-shaders/handheld/bevel.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/handheld/shaders/bevel.slang   <=  /home/asdf/shader_temp/common-shaders/handheld/shaders/bevel.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/bicubic/bicubic-fast.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/bicubic/shaders/bicubic-fast.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/bicubic/bicubic-fast.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/bicubic/shaders/bicubic-fast.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/borders/bigblur.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/borders/resources/bigblur.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/borders/bigblur.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/borders/resources/bigblur.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/blurs/bilateral.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/blurs/bilateral.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/denoisers/shaders/bilateral.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/bilateral.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/bilinear.cgp  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/quad/shaders/biquad.slang   <=  /home/asdf/shader_temp/common-shaders/quad/biquad.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/quad/shaders/biquad.slang   <=  /home/asdf/shader_temp/common-shaders/quad/shaders/biquad.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/mudlord/bloom.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/mudlord/shaders/bloom.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur10x10shared.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur10x10shared.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur10x10shared-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur10x10shared-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur10x10shared-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur10x10shared-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur10x10shared-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur10x10shared-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11fast-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11fast-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11fast-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11fast-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11fast-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11fast-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11fast-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11fast-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11fast-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11fast-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11fast-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11fast-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11resize-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11resize-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11resize-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11resize-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11resize-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11resize-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11resize-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11resize-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11resize-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11resize-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur11resize-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur11resize-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur12x12shared.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur12x12shared.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur12x12shared-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur12x12shared-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur12x12shared-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur12x12shared-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur12x12shared-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur12x12shared-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3fast-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3fast-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3fast-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3fast-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3fast-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3fast-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3fast-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3fast-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3fast-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3fast-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3fast-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3fast-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3resize-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3resize-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3resize-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3resize-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3resize-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3resize-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3resize-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3resize-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3resize-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3resize-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3resize-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3resize-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3x3.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3x3.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3x3-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3x3-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3x3-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3x3-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3x3-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3x3-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3x3resize.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3x3resize.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3x3resize-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3x3resize-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3x3resize-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3x3resize-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur3x3resize-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur3x3resize-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5fast-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5fast-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5fast-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5fast-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5fast-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5fast-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5fast-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5fast-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5fast-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5fast-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5fast-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5fast-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5resize-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5resize-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5resize-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5resize-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5resize-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5resize-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5resize-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5resize-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5resize-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5resize-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5resize-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5resize-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5x5.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5x5.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5x5-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5x5-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5x5-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5x5-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur5x5-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur5x5-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7fast-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7fast-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7fast-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7fast-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7fast-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7fast-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7fast-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7fast-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7fast-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7fast-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7fast-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7fast-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7resize-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7resize-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7resize-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7resize-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7resize-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7resize-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7resize-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7resize-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7resize-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7resize-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7resize-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7resize-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7x7.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7x7.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7x7-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7x7-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7x7-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7x7-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur7x7-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur7x7-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9fast-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9fast-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9fast-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9fast-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9fast-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9fast-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9fast-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9fast-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9fast-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9fast-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9fast-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9fast-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9resize-horizontal.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9resize-horizontal.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9resize-horizontal-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9resize-horizontal-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9resize-horizontal-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9resize-horizontal-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9resize-horizontal-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9resize-horizontal-last-pass-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9resize-vertical.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9resize-vertical.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9resize-vertical-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9resize-vertical-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9x9.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9x9.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9x9-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9x9-gamma-encode-every-fbo.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9x9-last-pass.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9x9-last-pass.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/blurs/shaders/royale/blur9x9-last-pass-gamma-encode-every-fbo.slang   <=  /home/asdf/shader_temp/common-shaders/blurs/blur9x9-last-pass-gamma-encode-every-fbo.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_horiz.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_horiz.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_horiz.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_horiz.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_horiz.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_horiz.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_horiz.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_horiz.cg  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/newpixie/blur_horiz.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_horiz.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/newpixie/blur_horiz.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_horiz.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_horiz.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_horiz.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_vert.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_vert.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_vert.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_vert.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_vert.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_vert.cg  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/newpixie/blur_vert.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_vert.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/newpixie/blur_vert.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_vert.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/glow/blur_vert.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/blur_vert.cg  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/auto-box/box-max.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/motionblur/braid-rewind.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/motionblur/shaders/braid-rewind.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/motionblur/braid-rewind.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/motionblur/shaders/braid-rewind.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/reshade/bsnes-gamma-ramp.cgp  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/dithering/shaders/cbod-v1/cbod-v1-pass1.slang   <=  /home/asdf/shader_temp/common-shaders/dithering/shaders/cbod-v1/cbod-v1-pass1.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/dithering/shaders/cbod-v1/cbod-v1-pass2.slang   <=  /home/asdf/shader_temp/common-shaders/dithering/shaders/cbod-v1/cbod-v1-pass2.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/dithering/cbod_v1.cgp  (no top comment block)
+
+================================================================================
+DIFF for target: /home/asdf/shader_temp/slang-shaders/misc/cmyk-halftone-dot.slangp   <=  source: /home/asdf/shader_temp/common-shaders/misc/cmyk-halftone-dot.cg
+================================================================================
+--- /home/asdf/shader_temp/slang-shaders/misc/cmyk-halftone-dot.slangp
++++ /home/asdf/shader_temp/slang-shaders/misc/cmyk-halftone-dot.slangp
+@@ -1,3 +1,9 @@
++/*
+
++ * This shader is licensed in the public domain, as per S. Gustavson's original license.
+
++ * Note: the MIT-licensed noise functions have been purposely removed.
+
++ * */
+
++ */
+
++
+
+ shaders = 1
+
+ 
+
+ shader0 = shaders/cmyk-halftone-dot.slang
+
+
+================================================================================
+DIFF for target: /home/asdf/shader_temp/slang-shaders/misc/shaders/cmyk-halftone-dot.slang   <=  source: /home/asdf/shader_temp/common-shaders/misc/cmyk-halftone-dot.cg
+================================================================================
+--- /home/asdf/shader_temp/slang-shaders/misc/shaders/cmyk-halftone-dot.slang
++++ /home/asdf/shader_temp/slang-shaders/misc/shaders/cmyk-halftone-dot.slang
+@@ -1,4 +1,10 @@
+ #version 450
+
++
+
++/*
+
++ * This shader is licensed in the public domain, as per S. Gustavson's original license.
+
++ * Note: the MIT-licensed noise functions have been purposely removed.
+
++ * */
+
++ */
+
+ 
+
+ layout(push_constant) uniform Push
+
+ {
+
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/misc/color-mangler.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/misc/color-mangler.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/misc/colorimetry.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/misc/colorimetry.cg
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/GTU-famicom/combFilter.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-aperture.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-aperture.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-aperture.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-aperture.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-aperture.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-aperture.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-aperture.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-aperture.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-aperture.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-aperture.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-aperture.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-aperture.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-caligari.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-caligari.cg  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/crt-caligari.slang   <=  /home/asdf/shader_temp/common-shaders/crt/crt-caligari.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/crt-caligari.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-caligari.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-cgwg-fast.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-cgwg-fast.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/crt-cgwg-fast.slang   <=  /home/asdf/shader_temp/common-shaders/crt/crt-cgwg-fast.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/crt-cgwg-fast.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-cgwg-fast.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-easymode.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-easymode.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-easymode.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-easymode.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-easymode.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-easymode.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-easymode-halation.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/crt-easymode-halation.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-easymode-halation.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-easymode-halation/crt-easymode-halation.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/denoisers/crt-fast-bilateral-super-xbr.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-geom.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-geom.cg  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/crt-geom.slang   <=  /home/asdf/shader_temp/common-shaders/crt/crt-geom.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/crt-geom.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-geom.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-geom.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-geom.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-geom.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-geom.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-geom.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-geom.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-geom.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-geom.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-hyllian.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-hyllian.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-hyllian-glow/crt-hyllian.cg  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-hyllian-3d.cgp  (no top comment block)
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/shaders/crt-hyllian-3d.cg  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/hyllian/crt-hyllian-3d.slang   <=  /home/asdf/shader_temp/common-shaders/crt/crt-hyllian-3d.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/hyllian/crt-hyllian-3d.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-hyllian-3d.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-hyllian-fast.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-hyllian-fast.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/hyllian/crt-hyllian-fast.slang   <=  /home/asdf/shader_temp/common-shaders/crt/crt-hyllian-fast.cgp
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/hyllian/crt-hyllian-fast.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-hyllian-fast.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/hyllian/crt-hyllian-pass0.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-hyllian-multipass/crt-hyllian-pass0.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/hyllian/crt-hyllian-pass1.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-hyllian-multipass/crt-hyllian-pass1.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-interlaced-halation.cgp  (no top comment block)
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/crt-interlaced-halation/crt-interlaced-halation-pass0.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-interlaced-halation/crt-interlaced-halation-pass0.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/crt-interlaced-halation/crt-interlaced-halation-pass1.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-interlaced-halation/crt-interlaced-halation-pass1.cg
+-- SKIP (target has license): /home/asdf/shader_temp/slang-shaders/crt/shaders/crt-interlaced-halation/crt-interlaced-halation-pass2.slang   <=  /home/asdf/shader_temp/common-shaders/crt/shaders/crt-interlaced-halation/crt-interlaced-halation-pass2.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-lottes.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-lottes.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-lottes.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-lottes.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-lottes.cgp  (no top comment block)
+-- SKIP (source header lacks license keywords after stripping): /home/asdf/shader_temp/common-shaders/crt/shaders/crt-lottes.cg
+-- NO SOURCE HEADER: /home/asdf/shader_temp/common-shaders/crt/crt-lottes.cgp  (no top comment block)
