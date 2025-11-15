@@ -1,3 +1,8 @@
+/*
+ *    Copyright (C) 2023 W. M. Martinez
+ *    splitted and adjusted by DariusG
+ */
+
 shaders = "1"
 shader0 = "shaders/chromaticity.slang"
 filter_linear0 = "false"

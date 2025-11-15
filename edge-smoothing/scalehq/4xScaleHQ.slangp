@@ -1,3 +1,7 @@
+/*
+ *    Copyright (C) 2005 guest(r) - guest.r@gmail.com
+ */
+
 shaders = 3
 
 shader0 = shaders/4xScaleHQ.slang

@@ -1,5 +1,9 @@
 # uborder-bezel-reflections
 
+/*
+ *     Copyright (C) 2010-2012 cgwg, Themaister and DOLLS
+ */
+
 shaders = "1"
 
 shader0 = "../../../shaders/content_bezel_shaders/crt/crt-geom-bezel-reflections.slang"

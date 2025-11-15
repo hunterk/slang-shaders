@@ -1,3 +1,21 @@
+/* 
+ * gizmo98 bayer 4x4 dithering shader
+ * Copyright (C) 2023 gizmo98
+ *
+ *   This program is free software; you can redistribute it and/or modify it
+ *   under the terms of the GNU General Public License as published by the Free
+ *   Software Foundation; either version 2 of the License, or (at your option)
+ *   any later version.
+ *
+ * version 0.1, 16.05.2023
+ * ---------------------------------------------------------------------------------------
+ * - initial commit
+ * 
+ * https://github.com/gizmo98/gizmo-crt-shader
+ *
+ * uses parts of texture anti-aliasing shader from Ikaros https://www.shadertoy.com/view/ldsSRX
+ */
+
 shaders = "1"
 shader0 = "shaders/bayer_4x4.slang"
 filter_linear0 = "false"

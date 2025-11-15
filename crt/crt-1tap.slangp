@@ -1,3 +1,9 @@
+/*
+    crt-1tap v1.0 by fishku
+    Copyright (C) 2023
+    Ported by dariusg to GLSL
+    Public domain license (CC0)
+
 shaders = 1
 
 shader0 = shaders/crt-1tap.slang

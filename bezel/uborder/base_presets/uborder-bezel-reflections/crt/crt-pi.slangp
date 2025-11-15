@@ -1,5 +1,9 @@
 # uborder-bezel-reflections
 
+/*
+ *     Copyright (C) 2015-2016 davej
+ */
+
 shaders = "1"
 
 shader0 = "../../../shaders/content_bezel_shaders/crt/crt-pi-bezel-reflections.slang"

@@ -1,3 +1,9 @@
+/*
+   Copyright (C) 2010 Team XBMC
+   http://www.xbmc.org
+   Copyright (C) 2011 Stefanos A.
+   http://www.opentk.com
+
 shaders = 1
 
 shader0 = shaders/bicubic.slang

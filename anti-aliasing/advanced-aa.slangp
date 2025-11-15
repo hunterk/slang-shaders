@@ -1,3 +1,6 @@
+/*
+   Copyright (C) 2006 guest(r) - guest.r@gmail.com
+
 shaders = 3
 
 shader0 = shaders/advanced-aa.slang

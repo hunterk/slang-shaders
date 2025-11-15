@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) Morgan McGuire and Williams College, 2006
+ * All rights reserved.
+ */
+
 shaders = 1
 
 shader0 = shaders/median_5x5.slang

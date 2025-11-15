@@ -1,5 +1,9 @@
 # uborder-koko-ambi
 
+/*
+ *    Copyright (C) 2017-2018 guest(r) - guest.r@gmail.com
+ */
+
 shaders = "5"
 
        shader0 = "../../../shaders/support_shaders/koko-ambi-standalone/0_koko-ambi-stock.slang"

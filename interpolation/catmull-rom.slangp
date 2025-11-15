@@ -1,3 +1,12 @@
+/*
+	Bicubic Catmull-Rom 9 taps (Fast) - ported by Hyllian - 2020
+	The following code is licensed under the MIT license: https://gist.github.com/TheRealMJP/bc503b0b87b643d3505d41eab8b332ae
+	Ported from code: https://gist.github.com/TheRealMJP/c83b8c0f46b63f3a88a5986f4fa982b1
+	Samples a texture with Catmull-Rom filtering, using 9 texture fetches instead of 16.
+	See http://vec3.ca/bicubic-filtering-in-fewer-taps/ for more details
+	ATENTION: This code only work using LINEAR filter sampling set on Retroarch!
+*/
+
 shaders = 1
 
 shader0 = shaders/catmull-rom.slang

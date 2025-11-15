@@ -1,3 +1,8 @@
+/*
+ * 	- Makes use of the 'line weighting' equation from zfast_lcd_standard
+ * 	  [original zfast_lcd_standard code copyright (C) 2017 Greg Hogan (SoltanGris42)]
+ */
+
 shaders = "1"
 
 shader0 = "../../handheld/shaders/simpletex_lcd/simpletex_lcd+gbc-color.slang"

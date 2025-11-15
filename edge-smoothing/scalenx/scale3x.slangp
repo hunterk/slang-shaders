@@ -1,3 +1,9 @@
+/*
+ * Homepage: http://scale2x.sourceforge.net/
+ * Copyright (C) 2001, 2002, 2003, 2004 Andrea Mazzoleni 
+ * License: GNU-GPL  
+ */
+
 shaders = 2
 
 shader0 = shaders/scale3x.slang

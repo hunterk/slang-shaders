@@ -1,3 +1,7 @@
+/*
+ *    - Copyright (C) 2007 guest(r) - guest.r@gmail.com
+ */
+
 shaders = 2
 
 shader0 = shaders/scale2xplus.slang

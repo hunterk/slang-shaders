@@ -1,5 +1,9 @@
 #version 450
 
+/*
+ *     Copyright (C) 2010-2012 cgwg, Themaister and DOLLS
+ */
+
 layout(push_constant) uniform Push
 {
 	uint FrameCount;
@@ -905,7 +909,7 @@ void main()
     vec4 mask = vec4(1.0);
     float alpha;
 
-    // Do not apply curvature to mask coordinates. Prevents moiré!
+    // Do not apply curvature to mask coordinates. Prevents moir!
     if(registers.vertical_scanlines < 0.5)
       mask = vec4(mask_weights_alpha(vTexCoord.xy * ScaledOutputSize.xy, 1., int(registers.mask_type), alpha), 1.0);
     else

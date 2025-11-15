@@ -1,3 +1,24 @@
+/*
+ *  NTSC Decoder
+ * 
+ *  Decodes composite video signal generated in Buffer A.
+ *  Move mouse to display the original signal.
+ * 
+ *  This is an intensive shader with a lot of sampling and 
+ *  iterated filtering. Reduce filter width N to trade quality 
+ *  for performance. N should be an integer multiple of four, 
+ *  plus one (4n+1). Apologies to owners of melted phones.
+ * 
+ *  hunterk made the shader work in RGB instead of just a single
+ *  channel, though there's probably better ways to do it than
+ *  just tripling all of the operations. Improvements are welcome!
+ * 
+ *  copyright (c) 2017, John Leffingwell
+ *  license CC BY-SA Attribution-ShareAlike
+ *  adapted for RetroAch by hunterk from this shadertoy:
+ *  https://www.shadertoy.com/view/Mdffz7
+ */
+
 shaders = 2
 
 shader0 = ../stock.slang

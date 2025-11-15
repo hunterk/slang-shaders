@@ -1,3 +1,7 @@
+/*
+ *    Copyright (C) 2005-2017 guest(r) - guest.r@gmail.com
+ */
+
 shaders = 1
 
 shader0 = "shaders/sharpsmoother.slang"

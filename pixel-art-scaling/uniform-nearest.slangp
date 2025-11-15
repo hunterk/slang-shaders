@@ -1,3 +1,27 @@
+/* 
+ * gizmo98 uniform-nearest shader
+ * Copyright (C) 2023 gizmo98
+ *
+ *   This program is free software; you can redistribute it and/or modify it
+ *   under the terms of the GNU General Public License as published by the Free
+ *   Software Foundation; either version 2 of the License, or (at your option)
+ *   any later version.
+ *
+ * version 0.1, 28.04.2023
+ * ---------------------------------------------------------------------------------------
+ * - initial commit
+ * 
+ * https://github.com/gizmo98/gizmo-crt-shader
+ *
+ * This shader texture AA shader code and subpixel scaling to produce a nearest neighbor
+ * look with even placed pixels. If nearest neighbor is applied to fractional scaled output 
+ * pixels look uneven and moving sprites change dimension which looks ugly.
+ *
+ * BGR_LCD_PATTERN most LCDs have a RGB pixel pattern. Enable BGR pattern with this switch
+ *
+ * uses parts of texture anti-aliasing shader from Ikaros https://www.shadertoy.com/view/ldsSRX
+ */
+
 shaders = "1"
 shader0 = "shaders/uniform-nearest.slang"
 filter_linear0 = "true"

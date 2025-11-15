@@ -1,5 +1,9 @@
 # uborder-koko-ambi
 
+/*
+ *     Copyright (C) 2010-2012 cgwg, Themaister and DOLLS
+ */
+
 shaders = "5"
 
        shader0 = "../../../shaders/support_shaders/koko-ambi-standalone/0_koko-ambi-stock.slang"

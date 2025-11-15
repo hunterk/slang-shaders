@@ -1,3 +1,7 @@
+/*
+ *     Copyright (C) 2010-2012 cgwg, Themaister and DOLLS
+ */
+
 shaders = 1
 
 shader0 = shaders/crt-geom.slang
