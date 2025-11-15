@@ -1,3 +1,9 @@
+/*
+ * This shader is licensed in the public domain, as per S. Gustavson's original license.
+ * Note: the MIT-licensed noise functions have been purposely removed.
+ * */
+ */
+
 shaders = 1
 
 shader0 = shaders/cmyk-halftone-dot.slang

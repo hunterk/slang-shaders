@@ -1,5 +1,11 @@
 #version 450
 
+/*
+ * This shader is licensed in the public domain, as per S. Gustavson's original license.
+ * Note: the MIT-licensed noise functions have been purposely removed.
+ * */
+ */
+
 layout(push_constant) uniform Push
 {
 	vec4 SourceSize;
